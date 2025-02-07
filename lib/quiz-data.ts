@@ -4,7 +4,7 @@ export const quizData = [
     options: [
       "To define API routes",
       "To initialize Redux store",
-      "To override the default App component and add",
+      "To override the default App component and add global styles",
       "To handle server-side rendering for specific pages"
     ],
     correctAnswer: 2,
